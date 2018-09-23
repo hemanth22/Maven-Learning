@@ -21,6 +21,7 @@
             </configuration>
         </plugin>
     </plugins>
+    <finalName>foo</finalName>
 </build>
     <dependencies>
         <dependency>
